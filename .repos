@@ -1,0 +1,7 @@
+repositories:
+  j_pcd2depthcolor:
+    type: git
+    url: git@github.com:HTLife/j_pcd2depthcolor.git
+  j_bbox_gui:
+    type: git
+    url: git@github.com:HTLife/j_bbox_gui.git
